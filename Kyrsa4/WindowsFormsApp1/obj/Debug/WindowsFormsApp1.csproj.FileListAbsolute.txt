@@ -1,0 +1,13 @@
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Edit.resources
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Star405.resources
+C:\Users\alyam\Desktop\Dead Inside\Ларионова\КП\Kyrsa4\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Yspev.resources
